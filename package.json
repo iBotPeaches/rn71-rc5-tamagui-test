@@ -10,8 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "@tamagui/shorthands": "^1.0.1",
+    "@tamagui/theme-base": "^1.0.1",
     "react": "18.2.0",
-    "react-native": "0.71.0-rc.5"
+    "react-native": "0.71.0-rc.5",
+    "tamagui": "^1.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
